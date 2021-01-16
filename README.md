@@ -2,12 +2,12 @@ Amazon - Clone
 
 * This project has exact functionaly and UI of facebook.
 
-* The project contains story , sidebar , message and widgets tabs.
+* The project contains ratings ,price and discription of the products
 
-* The App contains Google authentication which is used to signup with Google account.
+* The App contains Amazon authentication UI which by the firebase functionalities.
 
 * The clone contains Router functionality it makes the app super fast without refreshing the page.
 
-* The user can post message and image, which is stored in the database(Firebase Firestore).
+* The app stores the user data in Firebase(FIRESTORE) and gives the ordered values in the order page.
 
 * The project also use CONTEXT API to maintain the state.
